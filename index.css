@@ -1,0 +1,167 @@
+h1 {
+  font-family: 'Abril Fatface';
+}
+
+p {
+  text-align: left;
+}
+
+a {
+  font-family: 'Abril Fatface';
+  color: white;
+  font-size: 20px;
+  text-decoration: none;
+  border: 2px solid white;
+  padding: 5px;
+  text-align: center;
+  width: 200px;
+}
+
+body {
+  margin: 0px;
+  padding: 0px;
+  background-color: #b6cad9;
+}
+
+section {
+  padding: 0px;
+  margin: 0px;
+}
+
+h3 {
+  font-size: 30px;
+  font-family: 'Quattrocento Sans';
+}
+
+h4{
+  padding-left: 90px;
+  padding-top: 10px;
+  padding-bottom: 10px; 
+  margin-top:0px;
+  font-size: 20px;
+  font-family: 'Quattrocento Sans';
+  color: white;
+}
+
+
+.red {
+  background-color: #8f535c;
+}
+
+.container {
+  width:auto;
+  height:240px;
+  font-family: 'Abril Fatface';
+  color:white;
+  background-color: #b6cad9;
+}
+
+.col-sm-8 {
+  margin-left:auto;
+  font-size: 65px;
+}
+
+.col-sm-4 {
+  padding-top:10px;
+  display:flex;
+  justify-content:space-around;
+  font-size: 30px;
+}
+
+.row {
+  height:100px;
+  color: #8f535c;
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  text-align:center;
+  justify-content:space-between;
+}
+
+.title {
+  font-size: 50px;
+  text-align: center;
+  padding: 0px;
+}
+
+.w-img {
+  margin: 30px;
+  margin-top: 0px;
+  height: 400px;
+  object-fit: cover;
+  border: 3px solid #8f535c;
+}
+
+
+.r-img {
+  margin: 30px;
+  margin-top: 0px;
+  height: 400px;
+  object-fit: cover;
+  border: 3px solid white;
+}
+
+
+.in-a-row {
+  display: flex;
+  justify-content:flex-start;
+  padding-left: 60px;
+  padding-right: 60px;
+}
+
+.in-a-row2 {
+  display: flex;
+  justify-content:space-between;
+  padding-left: 90px;
+  padding-right: 90px;
+  padding-bottom: 90px;
+}
+.text {
+  width: auto;
+  font-family: 'Quattrocento Sans';
+  font-size: 23px;
+}
+
+#bottompics {
+  margin: 0px;
+  justify-content: space-between;
+}
+#jueves {
+  background-color: white;
+  font-family: 'Abril Fatface';
+  font-size: 30px;
+  margin:0px;
+  height:auto;
+  color: #8f535c;
+  padding-top: 5px;
+}
+
+
+#viernes {
+  background-color: #8f535c;
+  font-family: 'Abril Fatface';
+  font-size: 30px;
+  margin:0px;
+  color: white;
+  height: auto;
+}
+
+
+#sabado {
+  background-color: white;
+  font-family: 'Abril Fatface';
+  font-size: 30px;
+  margin:0px;
+  color: #8f535c;
+  height: auto;
+}
+
+
+#domingo {
+  background-color: #8f535c;
+  font-family: 'Abril Fatface';
+  font-size: 30px;
+  margin:0px;
+  color: white;
+  height: auto;
+}
